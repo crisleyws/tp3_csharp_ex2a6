@@ -57,11 +57,5 @@
             Console.WriteLine("Quantidade disponível: " + QuantidadeDisponivel);
         }
 
-        public void ExibirIngressoGet()
-        {
-            Console.WriteLine($"Nome do show: {GetNomeDoShow}");
-            Console.WriteLine($"Nome do show: {GetPreco}");
-            Console.WriteLine($"Nome do show: {GetQuantidadeDisponivel}");
-        }
     }
 }

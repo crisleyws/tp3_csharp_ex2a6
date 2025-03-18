@@ -34,6 +34,6 @@ public class Program
 
         ingresso2.SetPreco(180.0);
         ingresso2.SetQuantidadeDisponivel(650);
-        ingresso2.ExibirIngressoGet();
+        ingresso2.ExibirIngresso();
     }
 }
