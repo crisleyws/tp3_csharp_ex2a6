@@ -1,0 +1,14 @@
+D:\visual studio\infnet\tp3_csharp_ex2a6\tp3_csharp_ex2a6\bin\Debug\net8.0\tp3_csharp_ex2a6.exe
+D:\visual studio\infnet\tp3_csharp_ex2a6\tp3_csharp_ex2a6\bin\Debug\net8.0\tp3_csharp_ex2a6.deps.json
+D:\visual studio\infnet\tp3_csharp_ex2a6\tp3_csharp_ex2a6\bin\Debug\net8.0\tp3_csharp_ex2a6.runtimeconfig.json
+D:\visual studio\infnet\tp3_csharp_ex2a6\tp3_csharp_ex2a6\bin\Debug\net8.0\tp3_csharp_ex2a6.dll
+D:\visual studio\infnet\tp3_csharp_ex2a6\tp3_csharp_ex2a6\bin\Debug\net8.0\tp3_csharp_ex2a6.pdb
+D:\visual studio\infnet\tp3_csharp_ex2a6\tp3_csharp_ex2a6\obj\Debug\net8.0\tp3_csharp_ex2a6.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\infnet\tp3_csharp_ex2a6\tp3_csharp_ex2a6\obj\Debug\net8.0\tp3_csharp_ex2a6.AssemblyInfoInputs.cache
+D:\visual studio\infnet\tp3_csharp_ex2a6\tp3_csharp_ex2a6\obj\Debug\net8.0\tp3_csharp_ex2a6.AssemblyInfo.cs
+D:\visual studio\infnet\tp3_csharp_ex2a6\tp3_csharp_ex2a6\obj\Debug\net8.0\tp3_csharp_ex2a6.csproj.CoreCompileInputs.cache
+D:\visual studio\infnet\tp3_csharp_ex2a6\tp3_csharp_ex2a6\obj\Debug\net8.0\tp3_csharp_ex2a6.dll
+D:\visual studio\infnet\tp3_csharp_ex2a6\tp3_csharp_ex2a6\obj\Debug\net8.0\refint\tp3_csharp_ex2a6.dll
+D:\visual studio\infnet\tp3_csharp_ex2a6\tp3_csharp_ex2a6\obj\Debug\net8.0\tp3_csharp_ex2a6.pdb
+D:\visual studio\infnet\tp3_csharp_ex2a6\tp3_csharp_ex2a6\obj\Debug\net8.0\tp3_csharp_ex2a6.genruntimeconfig.cache
+D:\visual studio\infnet\tp3_csharp_ex2a6\tp3_csharp_ex2a6\obj\Debug\net8.0\ref\tp3_csharp_ex2a6.dll
