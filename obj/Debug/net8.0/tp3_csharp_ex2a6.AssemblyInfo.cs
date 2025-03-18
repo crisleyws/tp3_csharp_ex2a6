@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tp3_csharp_ex2a6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6de564a77eb956b63d8d677ef88d74c06e39df46")]
 [assembly: System.Reflection.AssemblyProductAttribute("tp3_csharp_ex2a6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tp3_csharp_ex2a6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
